@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "E:\\\u0423\u043D\u0438\u043A\\\u041B\u0430\u0431\u044B\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\aircompany-master\\aircompany-master\\aircompany\\Net\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CC927B58-6F9D-4F55-B44C-711874980B83}|Aircompany\\Aircompany.csproj|E:\\\u0423\u043D\u0438\u043A\\\u041B\u0430\u0431\u044B\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\aircompany-master\\aircompany-master\\aircompany\\Net\\aircompany\\runner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC927B58-6F9D-4F55-B44C-711874980B83}|Aircompany\\Aircompany.csproj|solutionrelative:aircompany\\runner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CC927B58-6F9D-4F55-B44C-711874980B83}|Aircompany\\Aircompany.csproj|E:\\\u0423\u043D\u0438\u043A\\\u041B\u0430\u0431\u044B\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\aircompany-master\\aircompany-master\\aircompany\\Net\\aircompany\\airport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC927B58-6F9D-4F55-B44C-711874980B83}|Aircompany\\Aircompany.csproj|solutionrelative:aircompany\\airport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC927B58-6F9D-4F55-B44C-711874980B83}|Aircompany\\Aircompany.csproj|e:\\\u0443\u043D\u0438\u043A\\\u043B\u0430\u0431\u044B\\\u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\aircompany-master\\aircompany-master\\aircompany\\net\\aircompany\\planes\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CC927B58-6F9D-4F55-B44C-711874980B83}|Aircompany\\Aircompany.csproj|E:\\\u0423\u043D\u0438\u043A\\\u041B\u0430\u0431\u044B\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\aircompany-master\\aircompany-master\\aircompany\\Net\\aircompany\\planes\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC927B58-6F9D-4F55-B44C-711874980B83}|Aircompany\\Aircompany.csproj|solutionrelative:aircompany\\planes\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -15,8 +15,12 @@
       "RelativeMoniker": "D:0:0:{CC927B58-6F9D-4F55-B44C-711874980B83}|Aircompany\\Aircompany.csproj|solutionrelative:aircompany\\planes\\passengerplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC927B58-6F9D-4F55-B44C-711874980B83}|Aircompany\\Aircompany.csproj|E:\\\u0423\u043D\u0438\u043A\\\u041B\u0430\u0431\u044B\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\aircompany-master\\aircompany-master\\aircompany\\Net\\aircompany\\planes\\militaryplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CC927B58-6F9D-4F55-B44C-711874980B83}|Aircompany\\Aircompany.csproj|e:\\\u0443\u043D\u0438\u043A\\\u043B\u0430\u0431\u044B\\\u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\aircompany-master\\aircompany-master\\aircompany\\net\\aircompany\\planes\\militaryplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC927B58-6F9D-4F55-B44C-711874980B83}|Aircompany\\Aircompany.csproj|solutionrelative:aircompany\\planes\\militaryplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC927B58-6F9D-4F55-B44C-711874980B83}|Aircompany\\Aircompany.csproj|E:\\\u0423\u043D\u0438\u043A\\\u041B\u0430\u0431\u044B\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\aircompany-master\\aircompany-master\\aircompany\\Net\\aircompany\\runner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC927B58-6F9D-4F55-B44C-711874980B83}|Aircompany\\Aircompany.csproj|solutionrelative:aircompany\\runner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CC927B58-6F9D-4F55-B44C-711874980B83}|Aircompany\\Aircompany.csproj|E:\\\u0423\u043D\u0438\u043A\\\u041B\u0430\u0431\u044B\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\aircompany-master\\aircompany-master\\aircompany\\Net\\aircompany\\models\\militarytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CC927B58-6F9D-4F55-B44C-711874980B83}|Aircompany\\Aircompany.csproj|E:\\\u0423\u043D\u0438\u043A\\\u041B\u0430\u0431\u044B\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\aircompany-master\\aircompany-master\\aircompany\\Net\\aircompany\\models\\classificationlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC927B58-6F9D-4F55-B44C-711874980B83}|Aircompany\\Aircompany.csproj|solutionrelative:aircompany\\models\\classificationlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC927B58-6F9D-4F55-B44C-711874980B83}|Aircompany\\Aircompany.csproj|E:\\\u0423\u043D\u0438\u043A\\\u041B\u0430\u0431\u044B\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\aircompany-master\\aircompany-master\\aircompany\\Net\\aircompany\\airport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC927B58-6F9D-4F55-B44C-711874980B83}|Aircompany\\Aircompany.csproj|solutionrelative:aircompany\\airport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CC927B58-6F9D-4F55-B44C-711874980B83}|Aircompany\\Aircompany.csproj|E:\\\u0423\u043D\u0438\u043A\\\u041B\u0430\u0431\u044B\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\aircompany-master\\aircompany-master\\aircompany\\Net\\aircompany\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -92,7 +92,7 @@
               "RelativeDocumentMoniker": "Aircompany\\Planes\\Plane.cs",
               "ToolTip": "E:\\\u0423\u043D\u0438\u043A\\\u041B\u0430\u0431\u044B\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\aircompany-master\\aircompany-master\\aircompany\\Net\\Aircompany\\Planes\\Plane.cs",
               "RelativeToolTip": "Aircompany\\Planes\\Plane.cs",
-              "ViewState": "AQIAAC4AAAAAAAAAAAAqwEYAAAABAAAA",
+              "ViewState": "AQIAABoAAAAAAAAAAAAqwDIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-20T05:04:48.07Z",
               "EditorCaption": ""
@@ -105,9 +105,10 @@
               "RelativeDocumentMoniker": "Aircompany\\Planes\\PassengerPlane.cs",
               "ToolTip": "E:\\\u0423\u043D\u0438\u043A\\\u041B\u0430\u0431\u044B\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\aircompany-master\\aircompany-master\\aircompany\\Net\\Aircompany\\Planes\\PassengerPlane.cs",
               "RelativeToolTip": "Aircompany\\Planes\\PassengerPlane.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAiwCwAAAABAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T05:04:47.2Z"
+              "WhenOpened": "2024-04-20T05:04:47.2Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -117,13 +118,14 @@
               "RelativeDocumentMoniker": "Aircompany\\Planes\\MilitaryPlane.cs",
               "ToolTip": "E:\\\u0423\u043D\u0438\u043A\\\u041B\u0430\u0431\u044B\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\aircompany-master\\aircompany-master\\aircompany\\Net\\Aircompany\\Planes\\MilitaryPlane.cs",
               "RelativeToolTip": "Aircompany\\Planes\\MilitaryPlane.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAQwCsAAAABAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAUwCEAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T05:04:45.96Z"
+              "WhenOpened": "2024-04-20T05:04:45.96Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "MilitaryType.cs",
               "DocumentMoniker": "E:\\\u0423\u043D\u0438\u043A\\\u041B\u0430\u0431\u044B\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\aircompany-master\\aircompany-master\\aircompany\\Net\\Aircompany\\Models\\MilitaryType.cs",
               "RelativeDocumentMoniker": "Aircompany\\Models\\MilitaryType.cs",
@@ -135,7 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ExperimentalTypes.cs",
               "DocumentMoniker": "E:\\\u0423\u043D\u0438\u043A\\\u041B\u0430\u0431\u044B\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\aircompany-master\\aircompany-master\\aircompany\\Net\\Aircompany\\Models\\ExperimentalTypes.cs",
               "RelativeDocumentMoniker": "Aircompany\\Models\\ExperimentalTypes.cs",
@@ -147,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ClassificationLevel.cs",
               "DocumentMoniker": "E:\\\u0423\u043D\u0438\u043A\\\u041B\u0430\u0431\u044B\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\aircompany-master\\aircompany-master\\aircompany\\Net\\Aircompany\\Models\\ClassificationLevel.cs",
               "RelativeDocumentMoniker": "Aircompany\\Models\\ClassificationLevel.cs",
@@ -159,7 +161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Runner.cs",
               "DocumentMoniker": "E:\\\u0423\u043D\u0438\u043A\\\u041B\u0430\u0431\u044B\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\aircompany-master\\aircompany-master\\aircompany\\Net\\Aircompany\\Runner.cs",
               "RelativeDocumentMoniker": "Aircompany\\Runner.cs",
@@ -167,20 +169,20 @@
               "RelativeToolTip": "Aircompany\\Runner.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAAACcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T05:04:36.482Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-20T05:04:36.482Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "Airport.cs",
               "DocumentMoniker": "E:\\\u0423\u043D\u0438\u043A\\\u041B\u0430\u0431\u044B\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\aircompany-master\\aircompany-master\\aircompany\\Net\\Aircompany\\Airport.cs",
               "RelativeDocumentMoniker": "Aircompany\\Airport.cs",
               "ToolTip": "E:\\\u0423\u043D\u0438\u043A\\\u041B\u0430\u0431\u044B\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\aircompany-master\\aircompany-master\\aircompany\\Net\\Aircompany\\Airport.cs",
               "RelativeToolTip": "Aircompany\\Airport.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAQwDUAAAABAAAA",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwCgAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T05:04:33.062Z"
+              "WhenOpened": "2024-04-20T05:04:33.062Z",
+              "EditorCaption": ""
             }
           ]
         },
