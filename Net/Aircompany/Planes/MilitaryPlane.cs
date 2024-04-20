@@ -39,6 +39,6 @@ namespace Aircompany.Planes
             return base.ToString().Replace("}",
                     ", type=" + _type +
                     '}');
-        }        
+        }
     }
 }

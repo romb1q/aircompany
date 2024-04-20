@@ -7,7 +7,7 @@ namespace Aircompany.Planes
         public int _passengersCapacity;
 
         public PassengerPlane(string model, int maxSpeed, int maxFlightDistance, int maxLoadCapacity, int passengersCapacity)
-            :base(model, maxSpeed, maxFlightDistance, maxLoadCapacity)
+            : base(model, maxSpeed, maxFlightDistance, maxLoadCapacity)
         {
             _passengersCapacity = passengersCapacity;
         }
@@ -33,13 +33,13 @@ namespace Aircompany.Planes
             return _passengersCapacity;
         }
 
-       
+
         public override string ToString()
         {
             return base.ToString().Replace("}",
                     ", passengersCapacity=" + _passengersCapacity +
                     '}');
-        }       
-        
+        }
+
     }
 }
